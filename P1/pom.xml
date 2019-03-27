@@ -13,7 +13,7 @@
         <configuration>
           <appName>p1-1</appName>
           <processTypes>
-            <web>java $JAVA_OPTS -cp target/classes:target/dependency/* Main</web>
+            <web>java $JAVA_OPTS -cp target/classes:target/dependency/* P1</web>
           </processTypes>
         </configuration>
       </plugin>
